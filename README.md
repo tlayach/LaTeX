@@ -1,2 +1,3 @@
 # LaTeX
-LaTeX How-To
+
+LaTeX 101
